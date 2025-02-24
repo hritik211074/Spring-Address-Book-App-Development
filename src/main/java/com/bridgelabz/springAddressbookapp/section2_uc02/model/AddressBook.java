@@ -1,6 +1,6 @@
 package com.bridgelabz.springAddressbookapp.section2_uc02.model;
-import javax.persistence.Entity;
-import javax.persistence.Id;
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
 
 @Entity
 public class AddressBook {
