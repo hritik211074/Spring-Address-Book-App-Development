@@ -7,6 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(com.bridgelabz.springAddressbookapp.section2_uc01.Application.class, args);
+        SpringApplication.run(com.bridgelabz.springAddressbookapp.section2_uc03.Application.class, args);
     }
 }
