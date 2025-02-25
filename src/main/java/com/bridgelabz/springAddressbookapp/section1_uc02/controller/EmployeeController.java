@@ -1,7 +1,7 @@
 package com.bridgelabz.springAddressbookapp.section1_uc02.controller;
 
 import com.bridgelabz.springAddressbookapp.section1_uc02.model.Employee;
-import com.bridgelabz.springAddressbookapp.section1_uc02.EmployeeService;
+import com.bridgelabz.springAddressbookapp.section1_uc02.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
