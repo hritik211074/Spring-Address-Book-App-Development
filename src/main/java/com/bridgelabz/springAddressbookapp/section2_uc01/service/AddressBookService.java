@@ -1,7 +1,7 @@
 package com.bridgelabz.springAddressbookapp.section2_uc01.service;
 
-import com.bridgelabz.springaddressbookapp.model.AddressBook;
-import com.bridgelabz.springaddressbookapp.repository.AddressBookRepository;
+import com.bridgelabz.springAddressbookapp.section2_uc01.model.AddressBook;
+import com.bridgelabz.springAddressbookapp.section2_uc01.repository.AddressBookRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
