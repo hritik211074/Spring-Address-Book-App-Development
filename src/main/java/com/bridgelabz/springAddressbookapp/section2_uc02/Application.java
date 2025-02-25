@@ -9,4 +9,5 @@ public class Application {
     public static void main(String[] args) {
         SpringApplication.run(com.bridgelabz.springAddressbookapp.section2_uc01.Application.class, args);
     }
+
 }
